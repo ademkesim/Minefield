@@ -1,0 +1,15 @@
+C:\Users\ademk\source\repos\VizeProje\VizeProje\bin\Debug\VizeProje.exe.config
+C:\Users\ademk\source\repos\VizeProje\VizeProje\bin\Debug\VizeProje.exe
+C:\Users\ademk\source\repos\VizeProje\VizeProje\bin\Debug\VizeProje.pdb
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.csprojAssemblyReference.cache
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.Form1.resources
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.Properties.Resources.resources
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.csproj.GenerateResource.cache
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.csproj.CoreCompileInputs.cache
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.exe
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.pdb
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.Form2.resources
+C:\Users\ademk\source\repos\VizeProje\VizeProje\bin\Debug\VizeProje.exe.manifest
+C:\Users\ademk\source\repos\VizeProje\VizeProje\bin\Debug\VizeProje.application
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.exe.manifest
+C:\Users\ademk\source\repos\VizeProje\VizeProje\obj\Debug\VizeProje.application
